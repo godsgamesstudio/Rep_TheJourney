@@ -1,0 +1,16 @@
+**/Intermediate/*
+**/Saved/*
+**/Build/*
+**/Binaries/*
+**/Android_ASTC/*
+**/WindowsNoEditor/*
+**/Windows/*
+**/DerivedDataCache/*
+
+**/.vscode/*
+**/.vs/*
+
+**/*.sln
+**/*.suo
+**/*.code-workspace
+
