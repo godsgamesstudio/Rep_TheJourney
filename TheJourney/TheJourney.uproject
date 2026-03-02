@@ -12,11 +12,11 @@
 			]
 		},
 		{
-			"Name": "CommonUI",
+			"Name": "FMODStudio",
 			"Enabled": true
 		},
 		{
-			"Name": "CharacterStatesManager",
+			"Name": "FMODStudioNiagara",
 			"Enabled": true
 		}
 	]
