@@ -24,13 +24,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NexxNote",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/a445ccab-a13f-458d-989a-63c7466ef7d8"
-		},
-		{
-			"Name": "AudioModulation",
+			"Name": "HDRIBackdrop",
 			"Enabled": true
-		}
+		},
+{
+           		 "Name": "AudioModulation",
+           		 "Enabled": true
+        }
 	]
 }
